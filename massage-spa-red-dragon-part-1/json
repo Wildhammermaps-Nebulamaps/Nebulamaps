@@ -7,8 +7,8 @@
     "verified": "13",
     "maximum": "13"
   },
-  "manifest": "raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Wildhammermaps/main/dwarven-throne-hall/module.json",
-  "download": "https://www.dropbox.com/scl/fi/gum9wzn9unwnayh94nsn3/module.zip?rlkey=umkl0x1ltum5xc6xhyf34iqtk&st=nc4mx2bb&dl=1",
+  "manifest": "https://github.com/Wildhammermaps-Nebulamaps/Nebulamaps/edit/main/massage-spa-red-dragon-part-1/json",
+  "download": "https://www.dropbox.com/scl/fi/8wbibjws2w6m4ftksfbsa/massage-spa-red-dragon-part-1.zip?rlkey=44kwvpiso32glh28deuhn4ypk&st=iokv5o78&dl=1",
   "packs": [
     {
       "name": "massage-spa-red-dragon-part-1-scenes",
