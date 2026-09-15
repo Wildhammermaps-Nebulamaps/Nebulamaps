@@ -1,1 +1,20 @@
-
+{
+  "id": "cyberpunk-alley-santo-domingo-court",
+  "title": "Cyberpunk Alley Santo Domingo Court",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://raw.githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/u6mthrhahtrmoarwec3fc/cyberpunk-alley-santo-domingo-court.zip?rlkey=kr744ou7lwm7a01mxaajc290w&st=gjb2vcav&dl=1",
+  "packs": [
+    {
+      "name": "cyberpunk-alley-santo-domingo-court-scenes",
+      "label": "Cyberpunk Alley Santo Domingo Court",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
