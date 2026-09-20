@@ -7,7 +7,7 @@
     "verified": "13",
     "maximum": "13"
   },
-  "manifest": "https://www.dropbox.com",
+  "manifest": "https://raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Nebulamaps/refs/heads/main/ripperdoc-back-alley-bazaar/module.json",
   "download": "https://www.dropbox.com/scl/fi/8qngklt94718w2lcbpqgo/Ripperdoc-Back-Alley-Bazaar.zip?rlkey=9pnvu1pujqfwnogznvcc2u4ho&st=ly12iion&dl=1",
   "packs": [
     {
