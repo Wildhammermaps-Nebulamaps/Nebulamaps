@@ -1,1 +1,20 @@
-
+{
+  "id": "cyberpunk-underpass-alvarado",
+  "title": "Cyberpunk Underpass Alvarado",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://raw.githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/f5ew83yba2llzt0mzk3h1/cyberpunk-underpass-alvarado.zip?rlkey=x7owkn6ncctv0o1lute2crkan&st=tpzbprmp&dl=1",
+  "packs": [
+    {
+      "name": "cyberpunk-underpass-alvarado",
+      "label": "Cyberpunk Underpass Alvarado",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
