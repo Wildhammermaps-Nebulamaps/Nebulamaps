@@ -1,1 +1,20 @@
-
+{
+  "id": "cyberpunk-badlands-san-echo",
+  "title": "Cyberpunk Badlands San Echo",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://github.com",
+  "download": "https://www.dropbox.com/scl/fi/v1zt1gdy63t3pd00bgd79/cyberpunk-badlands-san-echo.zip?rlkey=hgv2uvrlg1lknouaxpj25vpoj&st=m2ot8m08&dl=1",
+  "packs": [
+    {
+      "name": "cyberpunk-badlands-san-echo",
+      "label": "Cyberpunk Badlands San Echo",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
