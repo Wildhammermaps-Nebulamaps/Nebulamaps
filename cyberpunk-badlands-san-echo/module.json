@@ -7,7 +7,7 @@
     "verified": "13",
     "maximum": "13"
   },
-  "manifest": "https://github.com",
+  "manifest": "https://raw.githubusercontent.com/Wildhammermaps-Nebulamaps/Nebulamaps/refs/heads/main/cyberpunk-badlands-san-echo/module.json",
   "download": "https://www.dropbox.com/scl/fi/v1zt1gdy63t3pd00bgd79/cyberpunk-badlands-san-echo.zip?rlkey=hgv2uvrlg1lknouaxpj25vpoj&st=m2ot8m08&dl=1",
   "packs": [
     {
