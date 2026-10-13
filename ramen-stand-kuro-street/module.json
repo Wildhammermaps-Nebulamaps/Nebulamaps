@@ -1,1 +1,20 @@
-
+{
+  "id": "ramen-stand-kuro-street",
+  "title": "Ramen Stand Kuro Street",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "manifest": "https://raw.githubusercontent.com",
+  "download": "https://www.dropbox.com/scl/fi/prjwvnmxps9jep0xghv5v/ramen-stall-kuro-street.zip?rlkey=q05d28dxustkk4px1l6ew4ug0&st=10162weh&dl=1",
+  "packs": [
+    {
+      "name": "ramen-stand-kuro-street",
+      "label": "Ramen Stand Kuro Street",
+      "path": "packs",
+      "type": "Scene"
+    }
+  ]
+}
